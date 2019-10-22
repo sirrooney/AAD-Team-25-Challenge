@@ -1,6 +1,7 @@
 # AAD-Team-25 Group Animation Project
 
 This is ALC 4 challenge meant to help learners master their craft to be world class developers. Andela, Google and Pluralsight have partnered to provide an ever-growing population of aspiring technologists with the resources and environments they need to become world-class problem solvers.
+The app is a rentals application that can help you navigate your way through available apartments in your region and lets you pick the best based on your preference. It is an already built API and we added some contributions to it.
 
 ## Installation
 
